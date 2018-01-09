@@ -1,0 +1,19 @@
+{
+  "name": "progressive-node",
+  "version": "1.0.0",
+  "description": "using node progressively",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessiezhudev/progressive-node.git"
+  },
+  "author": "jessie.zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessiezhudev/progressive-node/issues"
+  },
+  "homepage": "https://github.com/jessiezhudev/progressive-node#readme"
+}
