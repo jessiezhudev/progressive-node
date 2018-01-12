@@ -39,3 +39,9 @@ V8 engine is Google's open source high-performance JavaScript engine, written in
 #### Streams in Node.js
 - Can create streams in Node.js to transfer data
 - Increase performance
+
+
+#### Express
+- Easy and flexible routing system
+- Integrates with many templating systems
+- Contains a middleware framework
